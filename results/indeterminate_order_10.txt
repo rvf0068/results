@@ -1,0 +1,4 @@
+# Indeterminate clique behavior - connected graphs of order 10
+# Format: original_index pared_order graph6 certificate_rule certificate_target_status certificate_target_label
+2318241 10 I?`ESZv^o retracts conjectured_divergent snub_disphenoid
+2516186 10 I?`FTZVVo retracts conjectured_divergent snub_disphenoid

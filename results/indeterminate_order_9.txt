@@ -1,0 +1,31 @@
+# Indeterminate clique behavior - connected graphs of order 9
+# Format: original_index pared_order graph6 certificate_rule certificate_target_status certificate_target_label
+180593 9 HCRSv\} retracts conjectured_divergent snub_disphenoid
+208409 9 HCZTf\} - - -
+220642 9 HCpVUn{ retracts conjectured_divergent snub_disphenoid
+220895 9 HCpVVzu retracts conjectured_divergent snub_disphenoid
+232592 9 HCprnzy retracts conjectured_divergent snub_disphenoid
+232908 9 HCpunV{ retracts conjectured_divergent snub_disphenoid
+233406 9 HCpvUzU retracts conjectured_divergent snub_disphenoid
+233586 9 HCpvVn{ retracts conjectured_divergent snub_disphenoid
+242316 9 HCrlvhz - - -
+244584 9 HCvbvZu retracts conjectured_divergent snub_disphenoid
+248687 9 HEher^{ - - -
+248936 9 HEhev^{ - - -
+249436 9 HEhff^{ - - -
+249574 9 HEhfvx} - - -
+249576 9 HEhfvzu - - -
+250693 9 HEhutzm - - -
+250814 9 HEhuvzm - - -
+251414 9 HEhvTn{ non_triangle_edge conjectured_divergent snub_disphenoid
+251445 9 HEhvTyu retracts conjectured_divergent snub_disphenoid
+251628 9 HEhvVn{ - - -
+251759 9 HEhvtzm - - -
+251902 9 HEhvvzm - - -
+252075 9 HEh~dzm - - -
+253650 9 HEjer~{ - - -
+254369 9 HEjfvx} - - -
+255141 9 HEnfbzm - - -
+260038 9 HQyvex{ inverse_cutpoint_extension conjectured_divergent snub_disphenoid
+260040 9 HQyvex} - - -
+260910 9 HUZvvzu - - -
